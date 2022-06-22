@@ -1,0 +1,1 @@
+alert("Name: Kolade Modupe\r\nHeight: 6 ft\r\n Country: Nigeria");
